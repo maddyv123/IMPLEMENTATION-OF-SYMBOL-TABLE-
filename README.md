@@ -1,4 +1,7 @@
 # Ex-2 IMPLEMENTATION-OF-SYMBOL-TABLE
+# Name:Mathavan V
+# Register No:212223110026
+# Date:
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
